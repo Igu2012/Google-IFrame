@@ -4,7 +4,7 @@ Script simples para abrir o Google dentro de um iframe flutuante direto pelo con
 
 ## Executar pelo console
 
-Clique no botão abaixo ou copie o comando:
+Copie o comando:
 
 <button onclick="navigator.clipboard.writeText('fetch(`https://raw.githubusercontent.com/Igu2012/Google-IFrame/main/iframe.js`).then(r=>r.text()).then(eval)')">
 📋 Copiar comando
