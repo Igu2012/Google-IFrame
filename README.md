@@ -2,7 +2,7 @@
 
 Script simples para abrir o Google dentro de um iframe flutuante direto pelo console do navegador.
 
-## 🚀 Executar pelo console
+## Executar pelo console
 
 Clique no botão abaixo ou copie o comando:
 
